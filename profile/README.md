@@ -13,7 +13,7 @@ These links contain explanations, tutorials and other information.
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-| Foo         | Bar         |
+| The Wiki-page for the CO2 project         | [https://wiki.hci.uni-hannover.de/doku.php?id=teaching:s23:pcl:g2](https://wiki.hci.uni-hannover.de/doku.php?id=teaching:s23:pcl:g2)         |
 
 ## Arduino Uno
 
