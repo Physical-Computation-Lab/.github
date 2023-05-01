@@ -13,7 +13,7 @@ These links contain explanations, tutorials and other information.
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
-| The Wiki-page for the CO2 project         | [https://wiki.hci.uni-hannover.de/doku.php?id=teaching:s23:pcl:g2](https://wiki.hci.uni-hannover.de/doku.php?id=teaching:s23:pcl:g2)         |
+| The wiki-page for the CO2 project         | [https://wiki.hci.uni-hannover.de/doku.php?id=teaching:s23:pcl:g2](https://wiki.hci.uni-hannover.de/doku.php?id=teaching:s23:pcl:g2)         |
 
 ## Arduino Uno
 
@@ -29,23 +29,23 @@ These links contain explanations, tutorials and other information.
 | <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
 |  Technical details for the Arduino Uno. Contains explanation of first steps with the Arduino-IDE under *Nutzung von Arduino Software/Testprojekt*        | [https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/](https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/)              |
-| Kleiner Sketch, der mit dem Arduino eine LED zum Blinken bringt.      |[https://osoyoo.com/2017/05/05/external-led-blink-tutorial/](https://osoyoo.com/2017/05/05/external-led-blink-tutorial/)  |
-|    Arduino language reference.   |[https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)  |
+| Small sketch that blinks an LED       |[https://osoyoo.com/2017/05/05/external-led-blink-tutorial/](https://osoyoo.com/2017/05/05/external-led-blink-tutorial/)  |
+|    Arduino language reference   |[https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)  |
 |       |[]()  |
 
 ## AirQualitySensor SGP30
 
 | <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
-| Allgemeine Infos zum SGP30-AirQuality-Sensor.  | [https://learn.sparkfun.com/tutorials/sparkfun-air-quality-sensor---sgp30-qwiic-hookup-guide/all](https://learn.sparkfun.com/tutorials/sparkfun-air-quality-sensor---sgp30-qwiic-hookup-guide/all)  |
-| Tutorial zum SGP30-AirQuality-Sensor in Verbindung mit Arduino.  | [https://how2electronics.com/interfacing-sgp30-co2-tvoc-sensor-with-arduino/](https://how2electronics.com/interfacing-sgp30-co2-tvoc-sensor-with-arduino/)  |
+| General information  | [https://learn.sparkfun.com/tutorials/sparkfun-air-quality-sensor---sgp30-qwiic-hookup-guide/all](https://learn.sparkfun.com/tutorials/sparkfun-air-quality-sensor---sgp30-qwiic-hookup-guide/all)  |
+| Tutorial for the SGP30 to work with an Arduino  | [https://how2electronics.com/interfacing-sgp30-co2-tvoc-sensor-with-arduino/](https://how2electronics.com/interfacing-sgp30-co2-tvoc-sensor-with-arduino/)  |
 
 ## Breadboard
 
 | <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
-| Breadboard/Steckbrett-Tutorial.  | [https://www.exp-tech.de/blog/tutorial-breadboard-steckplatine](https://www.exp-tech.de/blog/tutorial-breadboard-steckplatine) |
-| Video zu Aufbau und Benutzung eines Breadboards. Etwas langatmig, aber hilfreich.| [https://www.youtube.com/watch?v=d1V1gwQsm8Y](https://www.youtube.com/watch?v=d1V1gwQsm8Y)  |
+| Breadboard tutorial | [https://www.exp-tech.de/blog/tutorial-breadboard-steckplatine](https://www.exp-tech.de/blog/tutorial-breadboard-steckplatine) |
+| Video tutorial on structur of a breadboard and how to use it| [https://www.youtube.com/watch?v=d1V1gwQsm8Y](https://www.youtube.com/watch?v=d1V1gwQsm8Y)  |
 
 
 
