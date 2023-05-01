@@ -22,13 +22,13 @@ These links contain explanations, tutorials and other information.
 | <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
 | Arduino-IDE (Mac, Win, Linux)  | [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software) |
-| C-lib zur Interaktion mit dem SGP30  | [https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library](https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library)  |
+| C-lib for accessing the SGP30  | [https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library](https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library)  |
 
 ### tutorials 
 
 | <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
-|  Eigentlich mehr Erklärungen zum technischen Aufbau des Arduino, aber auch hilfreiche erste Schritte mit der IDE. Ab Abschnitt Nutzung von Arduino-Software/Testprojekt besonders interessant.            | [https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/](https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/)              |
+|  Technical details for the Arduino Uno. Contains explanation of first steps with the Arduino-IDE under *Nutzung von Arduino Software/Testprojekt*        | [https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/](https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/)              |
 | Kleiner Sketch, der mit dem Arduino eine LED zum Blinken bringt.      |[https://osoyoo.com/2017/05/05/external-led-blink-tutorial/](https://osoyoo.com/2017/05/05/external-led-blink-tutorial/)  |
 |    Arduino language reference.   |[https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)  |
 |       |[]()  |
@@ -45,8 +45,7 @@ These links contain explanations, tutorials and other information.
 | <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
 | Breadboard/Steckbrett-Tutorial.  | [https://www.exp-tech.de/blog/tutorial-breadboard-steckplatine](https://www.exp-tech.de/blog/tutorial-breadboard-steckplatine) |
-| Video zu Aufbau und Benutzung eines Breadboards. Etwas langatmig, aber hilfreich.
- | [https://www.youtube.com/watch?v=d1V1gwQsm8Y](https://www.youtube.com/watch?v=d1V1gwQsm8Y)  |
+| Video zu Aufbau und Benutzung eines Breadboards. Etwas langatmig, aber hilfreich.| [https://www.youtube.com/watch?v=d1V1gwQsm8Y](https://www.youtube.com/watch?v=d1V1gwQsm8Y)  |
 
 
 
