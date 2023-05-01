@@ -28,9 +28,7 @@ These links contain explanations, tutorials and other information.
 
 | <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
-|  Eigentlich mehr Erklärungen zum technischen Aufbau des Arduino, aber auch hilfreiche erste Schritte mit der IDE.
-Ab Abschnitt Nutzung von Arduino-Software
-/Testprojekt besonders interessant.            | [https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/](https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/)              |
+|  Eigentlich mehr Erklärungen zum technischen Aufbau des Arduino, aber auch hilfreiche erste Schritte mit der IDE. Ab Abschnitt Nutzung von Arduino-Software/Testprojekt besonders interessant.            | [https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/](https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/)              |
 | Kleiner Sketch, der mit dem Arduino eine LED zum Blinken bringt.      |[https://osoyoo.com/2017/05/05/external-led-blink-tutorial/](https://osoyoo.com/2017/05/05/external-led-blink-tutorial/)  |
 |    Arduino language reference.   |[https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)  |
 |       |[]()  |
