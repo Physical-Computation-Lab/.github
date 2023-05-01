@@ -22,7 +22,8 @@ These links contain explanations, tutorials and other information.
 | <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
 | Arduino-IDE (Mac, Win, Linux)  | [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software) |
-| Library for accessing the SGP30  | [https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library](https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library)  | Library for accessing the SDA (data line) and SCL (clock line) ports | [https://www.arduino.cc/reference/en/language/functions/communication/wire/](https://www.arduino.cc/reference/en/language/functions/communication/wire/) |
+| Library for accessing the SGP30  | [https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library](https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library)  |
+| Library for accessing the SDA (data line) and SCL (clock line) ports | [https://www.arduino.cc/reference/en/language/functions/communication/wire/](https://www.arduino.cc/reference/en/language/functions/communication/wire/) |
 | Arduino language reference        | [https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)    |
 
 ### tutorials 
