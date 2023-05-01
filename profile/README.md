@@ -1,6 +1,6 @@
 # About
 
-Organization for the **Physcial Computing Lab 2023**.
+Organization for the **CO2 project** as part of the course **Physcial Computing Lab 2023**.
 
 The basic idea is to share sketches (code files) for the Arduino Uno,
 and optionally any other files or information that might be useful here.
@@ -17,22 +17,38 @@ These links contain explanations, tutorials and other information.
 
 ## Arduino Uno
 
-|     One       |     Two       |
+### software
+
+| <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Arduino-IDE (Mac, Win, Linux)  | [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software) |
+| C-lib zur Interaktion mit dem SGP30  | [https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library](https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library)  |
+
+### tutorials 
+
+| <!-- -->    | <!-- -->    |
+| ------------- | ------------- |
+|  Eigentlich mehr Erklärungen zum technischen Aufbau des Arduino, aber auch hilfreiche erste Schritte mit der IDE.
+Ab Abschnitt Nutzung von Arduino-Software
+/Testprojekt besonders interessant.            | [https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/](https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/)              |
+| Kleiner Sketch, der mit dem Arduino eine LED zum Blinken bringt.      |[https://osoyoo.com/2017/05/05/external-led-blink-tutorial/](https://osoyoo.com/2017/05/05/external-led-blink-tutorial/)  |
+|    Arduino language reference.   |[https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)  |
+|       |[]()  |
 
 ## AirQualitySensor SGP30
 
+| <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Allgemeine Infos zum SGP30-AirQuality-Sensor.  | [https://learn.sparkfun.com/tutorials/sparkfun-air-quality-sensor---sgp30-qwiic-hookup-guide/all](https://learn.sparkfun.com/tutorials/sparkfun-air-quality-sensor---sgp30-qwiic-hookup-guide/all)  |
+| Tutorial zum SGP30-AirQuality-Sensor in Verbindung mit Arduino.  | [https://how2electronics.com/interfacing-sgp30-co2-tvoc-sensor-with-arduino/](https://how2electronics.com/interfacing-sgp30-co2-tvoc-sensor-with-arduino/)  |
 
 ## Breadboard
 
+| <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Breadboard/Steckbrett-Tutorial.  | [https://www.exp-tech.de/blog/tutorial-breadboard-steckplatine](https://www.exp-tech.de/blog/tutorial-breadboard-steckplatine) |
+| Video zu Aufbau und Benutzung eines Breadboards. Etwas langatmig, aber hilfreich.
+ | [https://www.youtube.com/watch?v=d1V1gwQsm8Y](https://www.youtube.com/watch?v=d1V1gwQsm8Y)  |
 
 
 
