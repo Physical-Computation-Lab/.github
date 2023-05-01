@@ -1,6 +1,4 @@
 # .github
-used for adding README.md
+used for editing the README.md in the *profile* folder, which contents
+are displayed at the *Physical-Computation-Lab*s *Overview*-panel.
 
-## About
-
-test text something yes yes hi yo lol
