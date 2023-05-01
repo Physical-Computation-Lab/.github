@@ -17,12 +17,13 @@ These links contain explanations, tutorials and other information.
 
 ## Arduino Uno
 
-### software
+### software / references
 
 | <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
 | Arduino-IDE (Mac, Win, Linux)  | [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software) |
-| C-lib for accessing the SGP30  | [https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library](https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library)  |
+| Library for accessing the SGP30  | [https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library](https://github.com/sparkfun/SparkFun_SGP30_Arduino_Library)  | Library for accessing the SDA (data line) and SCL (clock line) ports | [https://www.arduino.cc/reference/en/language/functions/communication/wire/](https://www.arduino.cc/reference/en/language/functions/communication/wire/) |
+| Arduino language reference        | [https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)    |
 
 ### tutorials 
 
@@ -30,8 +31,7 @@ These links contain explanations, tutorials and other information.
 | ------------- | ------------- |
 |  Technical details for the Arduino Uno. Contains explanation of first steps with the Arduino-IDE under *Nutzung von Arduino Software/Testprojekt*        | [https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/](https://knowhow.distrelec.com/de/elektronik/erste-schritte-mit-arduino-eine-anleitung-fuer-anfaenger-2/)              |
 | Small sketch that blinks an LED       |[https://osoyoo.com/2017/05/05/external-led-blink-tutorial/](https://osoyoo.com/2017/05/05/external-led-blink-tutorial/)  |
-|    Arduino language reference   |[https://www.arduino.cc/reference/en/](https://www.arduino.cc/reference/en/)  |
-|       |[]()  |
+| Explanation on Arduino-IDE file management  |[https://www.programmingelectronics.com/understanding-the-arduino-sketchbook-opening-and-saving-arduino-sketches/](https://www.programmingelectronics.com/understanding-the-arduino-sketchbook-opening-and-saving-arduino-sketches/)  |
 
 ## AirQualitySensor SGP30
 
