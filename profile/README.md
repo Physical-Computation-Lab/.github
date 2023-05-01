@@ -17,6 +17,10 @@ These links contain explanations, tutorials and other information.
 
 ## Arduino Uno
 
+### simulation
+
+| Arduino simulators    | [https://all3dp.com/2/best-arduino-simulators-online-offline/](https://all3dp.com/2/best-arduino-simulators-online-offline/) |
+
 ### software / references
 
 | <!-- -->    | <!-- -->    |
