@@ -45,7 +45,7 @@ These links contain explanations, tutorials and other information.
 | <!-- -->    | <!-- -->    |
 | ------------- | ------------- |
 | Breadboard tutorial | [https://www.exp-tech.de/blog/tutorial-breadboard-steckplatine](https://www.exp-tech.de/blog/tutorial-breadboard-steckplatine) |
-| Video tutorial on structur of a breadboard and how to use it| [https://www.youtube.com/watch?v=d1V1gwQsm8Y](https://www.youtube.com/watch?v=d1V1gwQsm8Y)  |
+| Video tutorial on structure of a breadboard and how to use it| [https://www.youtube.com/watch?v=d1V1gwQsm8Y](https://www.youtube.com/watch?v=d1V1gwQsm8Y)  |
 
 
 
