@@ -11,8 +11,9 @@ These links contain explanations, tutorials and other information.
 
 ## HCI Wiki
 
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
+| Foo         | Bar         |
 
 ## Arduino Uno
 
